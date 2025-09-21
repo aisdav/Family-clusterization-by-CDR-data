@@ -49,7 +49,6 @@ subs_id, family_group
 
 ## 📁 Структура репозитория
 ```
-├── data/                # данные (calls.csv, location.csv, subs.csv)
 ├── FamilyGroups.ipynb   # решение задачи (Jupyter Notebook)
 ├── results.csv          # итоговый список абонентов и групп
 └── README.md            # описание проекта
@@ -71,5 +70,6 @@ subs_id, family_group
    ```
 
 ## 📌 Контакты
+Данные: http://kaggle.com/datasets/aisdav/cdr-data-kz
 Автор: Davletkan Aisultan  
 Email: aisdavletkan@gmail.com
