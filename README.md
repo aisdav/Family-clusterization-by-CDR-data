@@ -70,6 +70,6 @@ subs_id, family_group
    ```
 
 ## 📌 Контакты
-Данные: http://kaggle.com/datasets/aisdav/cdr-data-kz
 Автор: Davletkan Aisultan  
 Email: aisdavletkan@gmail.com
+Данные: http://kaggle.com/datasets/aisdav/cdr-data-kz
